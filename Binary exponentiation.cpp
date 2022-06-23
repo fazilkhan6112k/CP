@@ -1,3 +1,4 @@
+#define mod 1000000007
 long long int power(long long int A, long long int B)
 {
     if (B == 0)
